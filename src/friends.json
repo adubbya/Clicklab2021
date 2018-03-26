@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Chopper Dave",
+    "image": "https://i.imgur.com/G64ILGe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Debbie",
+    "image": "https://i.imgur.com/aPh3DOU.jpg"
+  },
+  {
+    "id": 3,
+    "name": "French Guy",
+    "image": "https://i.imgur.com/o8rq04F.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dolphin Boy",
+    "image": "https://i.imgur.com/mCdE18z.jpg"
+  },
+  {
+    "id": 5,
+    "name": "French Guy 2",
+    "image": "https://i.imgur.com/jRu9Yy8.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cap'n Murphy",
+    "image": "https://i.imgur.com/a8WvNTY.jpg"
+  },
+  { 
+    "id": 7,
+    "name": "Estrada",
+    "image": "https://i.imgur.com/y5NlofY.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mama",
+    "image": "https://i.imgur.com/X8t52Im.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mega Hesh",
+    "image": "https://i.imgur.com/0aoTnkQ.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Quinn",
+    "image": "https://i.imgur.com/O1IEDH2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sparks",
+    "image": "https://i.imgur.com/D1Dlg3N.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Stormy",
+    "image": "https://i.imgur.com/oYnBrLj.jpg"
+  }
+]
